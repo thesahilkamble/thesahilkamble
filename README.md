@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sahil402424@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesahilkamble&show_icons=true&locale=en&layout=compact" alt="thesahilkamble" /></p>
+<p><img align="left" color="skyblue" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesahilkamble&show_icons=true&locale=en&layout=compact" alt="thesahilkamble" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesahilkamble&show_icons=true&locale=en" alt="thesahilkamble" /></p>
 
