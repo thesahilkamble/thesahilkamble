@@ -1,11 +1,11 @@
 <h2 align="center"> I'm Sahil Kamble </h2>
 <h4 align="center"> A software developer from India </h4>
 
-<p align="center"> 
+<p> 
   <img src="https://komarev.com/ghpvc/?username=theshailkamble&label=Profile%20views&color=0e75b6&style=flat" alt="theshailkamble" /> 
 </p>
 
-<p align="center"> 
+<p> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=theshailkamble" alt="theshailkamble" />
   </a> 
@@ -14,15 +14,15 @@
 - 🌱 I’m currently learning **CDAC's DAC Course**
 - 📫 How to reach me **sahil402424@gmail.com**
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thesahilkamble&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" alt="thesahilkamble" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=thesahilkamble&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" alt="thesahilkamble" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thesahilkamble&" alt="thesahilkamble" />
 </p>
 
