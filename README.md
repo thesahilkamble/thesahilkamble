@@ -1,5 +1,5 @@
-<h4 align="center"> I'm Sahil Kamble </h4>
-<h5 align="center"> A software developer from India </h5>
+<h2 align="center"> I'm Sahil Kamble </h2>
+<h4 align="center"> A software developer from India </h4>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=theshailkamble&label=Profile%20views&color=0e75b6&style=flat" alt="theshailkamble" /> 
