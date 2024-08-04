@@ -1,5 +1,5 @@
-# I'm Sahil Kamble
-## A software developer from India
+<h4 align="center"> I'm Sahil Kamble </h4>
+<h5 align="center"> A software developer from India </h5>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=theshailkamble&label=Profile%20views&color=0e75b6&style=flat" alt="theshailkamble" /> 
@@ -27,7 +27,7 @@
 </p>
 
 ### Languages and Tools:
-<p align="center">
+<p>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a> 
@@ -121,7 +121,7 @@
 </p>
 
 ### Connect with me:
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/sahil-kamble-947802214" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-kamble-947802214" height="30" width="40" />
   </a>
